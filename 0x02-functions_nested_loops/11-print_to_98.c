@@ -1,9 +1,10 @@
 #include "main.h"
 #include "6-abs.c"
 #include <stdio.h>
+
 /**
- * printing number
- *
+ * printing number from n to 98
+ * function call
  * Return: 0.
  */
 void print_to_98(int n)
