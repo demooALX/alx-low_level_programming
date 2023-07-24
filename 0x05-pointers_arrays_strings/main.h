@@ -1,5 +1,5 @@
-#ifndef _putchar
-#define _putchar
+#ifndef main_h
+#define main_h
 void _print_rev_recursion(char *s);
 /**
  * _atoi - convert char to int
@@ -214,3 +214,4 @@ void swap_int(int *a, int *b);
  */
 int _strlen(char *s);
 #endif
+
