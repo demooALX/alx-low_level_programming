@@ -1,5 +1,5 @@
 #ifndef _putchar
-#define -putchar
+#define _putchar
 void _print_rev_recursion(char *s);
 /**
  * _atoi - convert char to int
